@@ -1,5 +1,5 @@
 ﻿bool flag = true;
-int value;
+int value = 0;
 
 if (flag)
 {
